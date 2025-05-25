@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+.vscode
+.idea
+.gradle
 
 # Compiled Object files
 *.slo
